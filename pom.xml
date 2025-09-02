@@ -19,7 +19,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>Spring-boot-starter-data-jpa</artifactId> <!-- This is where the name will be put in -->
+			<artifactId>Spring-boot-starter-data-jpa</artifactId>
 			<version>3.2.5</version> 
 		</dependency>
 		<dependency>
